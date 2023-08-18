@@ -79,3 +79,9 @@ If you find this data/code/paper useful for your research, please consider citin
   doi          = {10.24963/ijcai.2023/146},
 }
 ```
+
+# Acknowledgements
+1. We used code-base and pre-trained models of [VLBart](https://github.com/j-min/VL-T5).
+2. Abhirama S. Penamakuri is supported by Prime Minister Research Fellowship (PMRF), Minsitry of Education, Government of India.
+3. We thank Microsoft for supporting this work through the Microsoft Academic Partnership Grant (MAPG) 2021. 
+
