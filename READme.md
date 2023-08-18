@@ -59,7 +59,7 @@ python eval_retvqa.py --gt_file <ground truth answers file path> --results_file 
 
 
 # License
-This code and data are released under the [MIT license](#).
+This code and data are released under the [MIT license](LICENSE.txt).
 
 # Cite
 If you find this data/code/paper useful for your research, please consider citing.
