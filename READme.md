@@ -51,7 +51,7 @@ bash retvqa_retrieved_VLBart_test.sh <no. of GPU>
 
 ## Evaluation
 
-Download our retvqa finetuned checkpoint from [here]().
+Download our retvqa finetuned checkpoint from [here](https://drive.google.com/file/d/1fb85r83JMuBC1Ph03_iRm5mD8L_C6QoH/view?usp=sharing).
 
 ```
 python eval_retvqa.py --gt_file <ground truth answers file path> --results_file <path to the generated answers>
