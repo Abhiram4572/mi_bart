@@ -17,6 +17,9 @@ conda activate retvqa
 # Data
 Images: Visual Genome [Krishna et al.](https://homes.cs.washington.edu/~ranjay/visualgenome/index.html) 
 
+
+RetVQA: [here](https://drive.google.com/file/d/1j08lIXSN5Uxn5imHKXn4JIrzq5RitE04/view?usp=share_link)
+
 ## Feature extraction
 Image Feature extraction: Inside ```feature_extraction/```, run
 
