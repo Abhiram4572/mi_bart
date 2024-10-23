@@ -1,5 +1,5 @@
 # RetVQA
-**Official implementation of the nswer Mining from a Pool of Images: Towards Retrieval-Based Visual Question Answering (IJCAI 2023 paper)**
+**Official implementation of the Answer Mining from a Pool of Images: Towards Retrieval-Based Visual Question Answering (IJCAI 2023 paper)**
 
 [paper](https://www.ijcai.org/proceedings/2023/0146.pdf) | [arxiv](https://arxiv.org/abs/2306.16713) | [project page](https://vl2g.github.io/projects/retvqa/)
 
